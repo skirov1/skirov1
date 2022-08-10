@@ -1,4 +1,4 @@
-👋 Hi, I’m @SimeonKirov
+👋 Hi, I’m Simeon Kirov
 
 👀 I’m interested in Web Development
 
