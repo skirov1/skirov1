@@ -6,8 +6,8 @@
 
 📫 How to reach me simeonkirov21@gmail.com
 
-💬 You can find me on 
-<a href="https://www.linkedin.com/in/simeon-kirov-85592123a/">Linkedin: Simeon Kirov</a>
+
+
 
 <h2> Hi there👋</h2>
 <h3>My name is Simeon Kirov</h3>
@@ -21,3 +21,5 @@
 <br></br>
 <a href="https://softuni.bg/certificates/details/136379/92987bae">C# Advanced</a>
 <br></br>
+
+<h2>💬 You can find me on</h2><a href="https://www.linkedin.com/in/simeon-kirov-85592123a/">Linkedin: Simeon Kirov</a>
