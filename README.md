@@ -19,4 +19,4 @@
 <br></br>
 
 <h2>💬 You can find me on</h2><a href="https://www.linkedin.com/in/simeon-kirov-85592123a/">LinkedIn: Simeon Kirov</a>
-<h2>📫 How to reach me</h2><a href="https://mail.google.com/">simeonkirov21@gmail.com</a>
+<h2>📫 How to reach me</h2><a href="https://mail.google.com/mail/u/0/#inbox?compose=new">simeonkirov21@gmail.com</a>
