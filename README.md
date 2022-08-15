@@ -1,10 +1,6 @@
-👋 Hi, I’m Simeon Kirov
 
-👀 I’m interested in Web Development
 
-🌱 I’m currently learning JS Advanced at SoftUni.bg
-
-📫 How to reach me simeonkirov21@gmail.com
+ 
 
 
 
@@ -22,4 +18,5 @@
 <a href="https://softuni.bg/certificates/details/136379/92987bae">C# Advanced</a>
 <br></br>
 
-<h2>💬 You can find me on</h2><a href="https://www.linkedin.com/in/simeon-kirov-85592123a/">Linkedin: Simeon Kirov</a>
+<h2>💬 You can find me on</h2><a href="https://www.linkedin.com/in/simeon-kirov-85592123a/">LinkedIn: Simeon Kirov</a>
+<h2>📫 How to reach me</h2><a href="simeonkirov21@gmail.com"></a>
