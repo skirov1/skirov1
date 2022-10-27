@@ -19,6 +19,8 @@
 <br></br>
 <a href="https://softuni.bg/certificates/details/141131/46454e20">C# OOP</a>
 <br></br>
+<a href="https://softuni.bg/certificates/details/145434/12a01ebc">JS Advanced</a>
+<br></br>
 
 <h2>💬 You can find me on</h2><a href="https://www.linkedin.com/in/simeon-kirov-85592123a/">LinkedIn: Simeon Kirov</a>
 <h2>📫 How to reach me</h2><a href="https://mail.google.com/mail/u/0/#inbox?compose=new">simeonkirov21@gmail.com</a>
