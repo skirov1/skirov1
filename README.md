@@ -23,6 +23,8 @@
 <br></br>
 <a href="https://softuni.bg/certificates/details/149837/18f55a36">JS Applications</a>
 <br></br>
+<a href="https://softuni.bg/certificates/details/157787/4de35012">MS SQL</a>
+<br></br>
 
 <h2>💬 You can find me on</h2><a href="https://www.linkedin.com/in/simeon-kirov-85592123a/">LinkedIn: Simeon Kirov</a>
 <h2>📫 How to reach me</h2><a href="https://mail.google.com/mail/u/0/#inbox?compose=new">simeonkirov21@gmail.com</a>
