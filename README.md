@@ -27,6 +27,10 @@
 <br></br>
 <a href="https://softuni.bg/certificates/details/164824/b117ca90">Entity Framework Core</a>
 <br></br>
+<a href="https://softuni.bg/certificates/details/175393/e4d76c25">ASP.NET Fundamentals</a>
+<br></br>
+<a href="https://softuni.bg/certificates/details/182244/47a8f877">ASP.NET Advanced</a>
+<br></br>
 
 <h2>💬 You can find me on</h2><a href="https://www.linkedin.com/in/simeon-kirov-85592123a/">LinkedIn: Simeon Kirov</a>
 <h2>📫 How to reach me</h2><a href="https://mail.google.com/mail/u/0/#inbox?compose=new">simeonkirov21@gmail.com</a>
